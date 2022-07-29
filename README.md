@@ -1,3 +1,5 @@
+<img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=NikitasMaragkos.NikitasMaragkos&color=00df00">     
+
 ## Hi, I'm Nikitas!
 
 - 📐 Mathematician
