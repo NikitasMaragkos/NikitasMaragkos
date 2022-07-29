@@ -10,8 +10,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert & LeetCode)</b>
-  - [Praciting DS & Algos in Python](https://github.com/NikitasMaragkos/Algorithm_Problems)
+- <b>Data Structures and Algorithms Practice</b>
+  - [AlgoExpert & LeetCode](https://github.com/NikitasMaragkos/Algorithm_Problems)
 
   <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
