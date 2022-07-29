@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nikitas!
+## Hi, I'm Nikitas!
 
 - 📐 Mathematician
 - 💻 Software Engineer
