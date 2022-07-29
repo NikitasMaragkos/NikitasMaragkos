@@ -1,7 +1,7 @@
-<h1>Hi, I'm Nikitas! <br/><a href="https://github.com/NikitasMaragkos">Programmer</a>, <a href="https://www.linkedin.com/in/nikitas-maragkos-215279173/">Deep Learning Engineer</a>
+<h1>Hi, I'm Nikitas!
 
 - 📐 Mathematician
-- 💻 Developer
+- 💻 Software Engineer
 - 🧠 Machine Learning / Deep Learning Engineer
 - 📊 Data Scientist
 - 👨‍💻 Freelancer
