@@ -1,5 +1,11 @@
 <h1>Hi, I'm Nikitas! <br/><a href="https://github.com/NikitasMaragkos">Programmer</a>, <a href="https://www.linkedin.com/in/nikitas-maragkos-215279173/">Deep Learning Engineer</a>
 
+- 📐 Mathematician
+- 💻 Developer
+- 🧠 Machine Learning / Deep Learning Engineer
+- 📊 Data Scientist
+- 👨‍💻 Freelancer
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
