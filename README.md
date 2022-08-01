@@ -38,7 +38,12 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="NikitasMaragkos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/nikitas-maragkos-215279173)
+[<img align="left" alt="NikitasMaragkos | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png" />](https://linkedin.com/in/nikitas-maragkos-215279173)
+
+<!--
+https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg
+
+-->
 
 <!--
 Here are some ideas to get you started:
