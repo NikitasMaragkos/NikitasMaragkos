@@ -19,15 +19,16 @@
 
 <h2>🧠 Machine Learning / Deep Learning Projects:</h2>
 
+<!--
 - <b>Data Structures and Algorithms Practice</b>
   - [AlgoExpert & LeetCode](https://github.com/NikitasMaragkos/Algorithm_Problems)
-
+-->
 
 <h2>📊 Data Science Projects:</h2>
-
+<!--
 - <b>Data Structures and Algorithms Practice</b>
   - [AlgoExpert & LeetCode](https://github.com/NikitasMaragkos/Algorithm_Problems)
-
+-->
 
 
 <h2>📺 Popular YouTube Videos</h2>
