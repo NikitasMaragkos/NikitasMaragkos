@@ -24,7 +24,7 @@
   - [AlgoExpert & LeetCode](https://github.com/NikitasMaragkos/Algorithm_Problems)
 
 - <b>Java Projects</b>
-  - [AlgoExpert & LeetCode](https://github.com/NikitasMaragkos/Algorithm_Problems)
+  - [Skyline Queries](https://github.com/NikitasMaragkos/Skyline-Queries)
 
 - <b>Python Projects</b>
   - [AlgoExpert & LeetCode](https://github.com/NikitasMaragkos/Algorithm_Problems)
