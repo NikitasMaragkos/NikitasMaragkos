@@ -14,7 +14,20 @@
 - <b>Data Structures and Algorithms Practice</b>
   - [AlgoExpert & LeetCode](https://github.com/NikitasMaragkos/Algorithm_Problems)
 
+- <b>C Projects</b>
+  - [AlgoExpert & LeetCode](https://github.com/NikitasMaragkos/Algorithm_Problems)
 
+- <b>C++ Projects</b>
+  - [AlgoExpert & LeetCode](https://github.com/NikitasMaragkos/Algorithm_Problems)
+
+- <b>C# Projects</b>
+  - [AlgoExpert & LeetCode](https://github.com/NikitasMaragkos/Algorithm_Problems)
+
+- <b>Java Projects</b>
+  - [AlgoExpert & LeetCode](https://github.com/NikitasMaragkos/Algorithm_Problems)
+
+- <b>Python Projects</b>
+  - [AlgoExpert & LeetCode](https://github.com/NikitasMaragkos/Algorithm_Problems)
 
 
 <h2>🧠 Machine Learning / Deep Learning Projects:</h2>
