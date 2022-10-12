@@ -15,20 +15,24 @@
   - [AlgoExpert & LeetCode](https://github.com/NikitasMaragkos/Algorithm_Problems)
 
 - <b>C Projects</b>
+<!--
   - [AlgoExpert & LeetCode](https://github.com/NikitasMaragkos/Algorithm_Problems)
-
+-->
 - <b>C++ Projects</b>
+<!--
   - [AlgoExpert & LeetCode](https://github.com/NikitasMaragkos/Algorithm_Problems)
-
+-->
 - <b>C# Projects</b>
+<!--
   - [AlgoExpert & LeetCode](https://github.com/NikitasMaragkos/Algorithm_Problems)
-
+-->
 - <b>Java Projects</b>
   - [Skyline Queries](https://github.com/NikitasMaragkos/Skyline-Queries)
 
 - <b>Python Projects</b>
+<!--
   - [AlgoExpert & LeetCode](https://github.com/NikitasMaragkos/Algorithm_Problems)
-
+-->
 
 <h2>🧠 Machine Learning / Deep Learning Projects:</h2>
 
