@@ -25,6 +25,7 @@
   - [AlgoExpert & LeetCode](https://github.com/NikitasMaragkos/Algorithm_Problems)
 -->
 - <b>Java Projects</b>
+  - [Operating Systems Processes Simulator](https://github.com/NikitasMaragkos/Operating-Systems-Processes-Simulator)
   - [Skyline Queries](https://github.com/NikitasMaragkos/Skyline-Queries)
 
 - <b>Python Projects</b>
