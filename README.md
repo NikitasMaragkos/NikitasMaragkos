@@ -28,9 +28,7 @@
   - [Skyline Queries](https://github.com/NikitasMaragkos/Skyline-Queries)
 
 - <b>Python Projects</b>
-<!--
-  - [AlgoExpert & LeetCode](https://github.com/NikitasMaragkos/Algorithm_Problems)
--->
+  - [Greek Scrabble](https://github.com/NikitasMaragkos/Greek-Scrabble/blob/main/README.md)
 
 <h2>🧠 Machine Learning / Deep Learning Projects:</h2>
 
