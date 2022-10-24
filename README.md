@@ -19,9 +19,7 @@
   - [AlgoExpert & LeetCode](https://github.com/NikitasMaragkos/Algorithm_Problems)
 -->
 - <b>C++ Projects</b>
-<!--
-  - [AlgoExpert & LeetCode](https://github.com/NikitasMaragkos/Algorithm_Problems)
--->
+  - [Save words from txt file into several Data Structures](https://github.com/NikitasMaragkos/Data-Structures-for-Words)
 - <b>C# Projects</b>
 <!--
   - [AlgoExpert & LeetCode](https://github.com/NikitasMaragkos/Algorithm_Problems)
