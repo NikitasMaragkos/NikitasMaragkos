@@ -39,7 +39,7 @@
   - [AlgoExpert & LeetCode](https://github.com/NikitasMaragkos/Algorithm_Problems)
 -->
 <h2>📊 Data Science - Machine Learning Projects:</h2>
-  - [ML models on Mnist](https://github.com/NikitasMaragkos/Mnist)
+- [ML models on Mnist](https://github.com/NikitasMaragkos/Mnist)
 
 <!--
 <h2>📺 Popular YouTube Videos</h2>
