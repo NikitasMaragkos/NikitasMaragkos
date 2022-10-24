@@ -12,7 +12,7 @@
 <h2>💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice</b>
-  - [AlgoExpert & LeetCode](https://github.com/NikitasMaragkos/Algorithm_Problems)
+  - [AlgoExpert](https://github.com/NikitasMaragkos/AlgoExpert)
 
 - <b>C Projects</b>
 <!--
@@ -29,22 +29,24 @@
 - <b>Python Projects</b>
   - [Greek Scrabble](https://github.com/NikitasMaragkos/Greek-Scrabble)
 
+
+<!--
 <h2>🧠 Machine Learning / Deep Learning Projects:</h2>
 
-<!--
+
 - <b>Data Structures and Algorithms Practice</b>
   - [AlgoExpert & LeetCode](https://github.com/NikitasMaragkos/Algorithm_Problems)
 -->
-
+<!--
 <h2>📊 Data Science Projects:</h2>
-<!--
+
 - <b>Data Structures and Algorithms Practice</b>
   - [AlgoExpert & LeetCode](https://github.com/NikitasMaragkos/Algorithm_Problems)
 -->
 
-
+<!--
 <h2>📺 Popular YouTube Videos</h2>
-
+-->
 ### 📈 GitHub stats
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=NikitasMaragkos&theme=dracula"/></p>
