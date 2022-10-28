@@ -19,6 +19,7 @@
   - [AlgoExpert & LeetCode](https://github.com/NikitasMaragkos/Algorithm_Problems)
 -->
 - <b>C++ Projects</b>
+  - [Path Finding with 8 algorithms](https://github.com/NikitasMaragkos/Path-Finding-With-Multiple-Algorithms)
   - [OpenGl 3D House with moving Sun](https://github.com/NikitasMaragkos/OpenGL-3D-House)
   - [Save words from txt file into several Data Structures](https://github.com/NikitasMaragkos/Data-Structures-for-Words)
 - <b>C# Projects</b>
