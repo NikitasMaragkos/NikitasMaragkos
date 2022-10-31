@@ -1,5 +1,6 @@
+<!--
 <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=NikitasMaragkos.NikitasMaragkos&color=00df00">     
-
+-->
 ## 👋 Hi, I'm <a href="www.linkedin.com/in/nikitas-maragkos-215279173">Nikitas!</a> 👋
 
 - 📐 Mathematician
