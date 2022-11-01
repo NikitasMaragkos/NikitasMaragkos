@@ -33,6 +33,7 @@
 
 - <b>Python Projects</b>
   - [Greek Scrabble](https://github.com/NikitasMaragkos/Greek-Scrabble)
+  - [Auction Simulator](https://github.com/NikitasMaragkos/Auction-Simulator)
 
 
 <!--
