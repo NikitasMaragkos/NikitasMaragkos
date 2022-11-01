@@ -23,6 +23,7 @@
   - [Path Finding with 8 algorithms](https://github.com/NikitasMaragkos/Path-Finding-With-Multiple-Algorithms)
   - [OpenGl 3D House with moving Sun](https://github.com/NikitasMaragkos/OpenGL-3D-House)
   - [Save words from txt file into several Data Structures](https://github.com/NikitasMaragkos/Data-Structures-for-Words)
+  - [Even parity - Double even parity](https://github.com/NikitasMaragkos/Even-Parity)
 - <b>C# Projects</b>
   - [Crowdfunding deployed on cloud with Azure](https://github.com/NikitasMaragkos/Crowdfunding)
 - <b>Java Projects</b>
