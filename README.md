@@ -3,11 +3,11 @@
 -->
 ## 👋 Hi, I'm <a href="www.linkedin.com/in/nikitas-maragkos-215279173">Nikitas!</a> 👋
 
-- 📐 Mathematician
-- 💻 Software Engineer
-- 🧠 Machine Learning / Deep Learning Engineer
-- 📊 Data Scientist
-- 👨‍💻 Freelancer
+- 📐 Mathematician (8.5/10)
+- 💻 Software Engineer (8.60/10)
+- 🧠 Machine Learning / Deep Learning Engineer (9.25/10)
+- 📊 Data Scientist (3 years and still going on)
+- 👨‍💻 Freelancer (3 years)
 
 
 <h2>💻 Software Development Projects:</h2>
